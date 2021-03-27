@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ReodontRadio",
+  "name": "Reodont's Radio Mod",
+  "description": "Internet radio in Minecraft specially for McSkill!",
+  "version": "0.2",
+  "mcversion": "1.5.2",
+  "url": "mc",
+  "updateUrl": "",
+  "authorList": ["Reodont, Update by Vertexit"],
+  "credits": "Reodont",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
